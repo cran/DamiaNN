@@ -1,0 +1,14 @@
+a83d501162d8a0ba26e4566c0ebb4856 *DESCRIPTION
+e2396457f9ddc1bd6e8260e51abb85b0 *NAMESPACE
+80174de6402a029b6a19ee9c2ab2b4a7 *R/DamiaNN.R
+d39b3e69cbac00e69094cd5766e31f71 *man/Get_Cost-Neural_Network-numeric-method.Rd
+28a7dc4ea99ef15a67784f9797d2731b *man/Get_LogLoss.Rd
+0a0ae9649cb65978584cb7aed8aeea79 *man/Get_Number_Observations-Neural_Network-method.Rd
+42434b9ba61e7ee9c4e0e93949f2c978 *man/Neural_Network-class.Rd
+7fa41d75ac8ecf2fbd03841a20c2726b *man/Predict-Neural_Network-data.frame-method.Rd
+94b86d34c134007eaa83691dbf748501 *man/Start.Rd
+9bb2cd0d2a95aeb4a94689a0e39d967c *man/Train-Neural_Network-data.frame-numeric-numeric-numeric-method.Rd
+43b19bbabded712aefa10d860ce670b1 *man/back_propogation-Neural_Network-numeric-numeric-numeric-method.Rd
+f588e095ba67448d96fd1525ec7fdd20 *man/forward_propogation-Neural_Network-matrix-method.Rd
+e66e2e4dc683bf9e718af0b94a3a8c8d *man/initialize-Neural_Network-method.Rd
+84797361957dba09191ce9ee68dd16dc *tests/testthat.R
